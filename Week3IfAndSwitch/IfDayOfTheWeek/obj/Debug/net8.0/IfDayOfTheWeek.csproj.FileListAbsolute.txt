@@ -1,0 +1,14 @@
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 3\Week3IfAndSwitch\IfDayOfTheWeek\bin\Debug\net8.0\IfDayOfTheWeek.exe
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 3\Week3IfAndSwitch\IfDayOfTheWeek\bin\Debug\net8.0\IfDayOfTheWeek.deps.json
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 3\Week3IfAndSwitch\IfDayOfTheWeek\bin\Debug\net8.0\IfDayOfTheWeek.runtimeconfig.json
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 3\Week3IfAndSwitch\IfDayOfTheWeek\bin\Debug\net8.0\IfDayOfTheWeek.dll
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 3\Week3IfAndSwitch\IfDayOfTheWeek\bin\Debug\net8.0\IfDayOfTheWeek.pdb
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 3\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net8.0\IfDayOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 3\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net8.0\IfDayOfTheWeek.AssemblyInfoInputs.cache
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 3\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net8.0\IfDayOfTheWeek.AssemblyInfo.cs
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 3\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net8.0\IfDayOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 3\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net8.0\IfDayOfTheWeek.dll
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 3\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net8.0\refint\IfDayOfTheWeek.dll
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 3\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net8.0\IfDayOfTheWeek.pdb
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 3\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net8.0\IfDayOfTheWeek.genruntimeconfig.cache
+C:\Users\kaarel.kuljus\Desktop\Programmeerimine\Week 3\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net8.0\ref\IfDayOfTheWeek.dll
